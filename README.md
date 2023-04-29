@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shivansh Maheshwari</h1>
-<h3 align="center">A passionate Full Stack Web Developer and Machine Learning Enthusiast from India</h3>
+</h5>
+<h3 align="center">
+  <a href="">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=100&color=F7F7F7&width=435&lines=A+passionate+Full+Stack+Web+Developer;A+passionate+Machine+Learning+Enthusiast+" alt="Typing SVG">
+  </a>
+</h3>
 <img align="right" alt="Coding" width="400" border-radius = 6  src="https://media.tenor.com/qp8MxufwWjkAAAAC/family-guy-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshmaheshwari&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshmaheshwari" /> </p>
