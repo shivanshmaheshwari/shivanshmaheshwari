@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Backend Development, GANs**
 
-- 🌱 I’m currently learning **React.js,**
+- 🌱 I’m currently learning **React.js, Tensorflow**
 
 - 🤝 I’m looking for help with **Internship**
 
