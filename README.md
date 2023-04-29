@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivansh Maheshwari</h1>
 <h3 align="center">A passionate Full Stack Web Developer and Machine Learning Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" border-radius = 6  src="https://media.tenor.com/qp8MxufwWjkAAAAC/family-guy-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshmaheshwari&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshmaheshwari" /> </p>
 
